@@ -1,0 +1,13 @@
+1.	Different between set and list
+List :
+•	List is ordered grouping elements
+•	List provides positional access in the elements of the collections.
+•	We can store duplicate elements in the list.
+•	List implements ArrayList, LinkedList, Vector and Stack.
+•	List can store multiple null elements.
+Set :
+•	Unorderd grouping elements.
+•	Set doesn’t provides positional access in the elements of the collections.
+•	We can’t store duplicate elements in the set.
+•	Set implement HashSet and LinkedHashSet interfaces.
+•	Set can store only one null elements.
